@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.scss"],"names":[],"mappings":"AAEA,KACE","file":"src.618263ec.css","sourceRoot":"../src","sourcesContent":["$main-bg: lightgreen;\n\nbody{\n  background: $main-bg;\n}"]}
